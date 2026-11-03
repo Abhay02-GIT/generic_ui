@@ -133,7 +133,7 @@ function FullFooter() {
               <img className="brand__logo" src={BRAND.logo} alt={BRAND.name} width="203" height="63" />
             </TLink>
             <p className="footer__tagline">
-              The AI voice agent from {BRAND.company} — one agent for every call, in any industry, day or night.
+              {BRAND.product} from {BRAND.company} — one agent for every call, in any industry, day or night.
             </p>
             <Achievement />
           </div>

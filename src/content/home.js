@@ -34,7 +34,7 @@ import {
 } from "lucide-react";
 
 export const HERO = {
-  eyebrow: "AI voice agents for every industry · live 24/7",
+  eyebrow: "Kerivo for every industry · live 24/7",
   lead:
     "One phone number, one AI colleague. It answers every call on the first ring — in the caller's own language — and does the work behind the conversation: bookings, orders, tickets and follow-ups, logged straight into your CRM.",
   primary: { to: "/console", label: "Try the live demo" },
