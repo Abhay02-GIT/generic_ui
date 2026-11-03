@@ -127,8 +127,8 @@ export const SOLUTIONS = {
 export const ABOUT = {
   hero: {
     eyebrow: "About GIT",
-    title: ["The team behind", "GIT Voice AI Agent."],
-    lead: "GIT Voice AI Agent is built by GIT Software Technologies — an IT services company shipping data, AI and cloud systems for enterprise clients across the UK, UAE and India.",
+    title: ["The team behind", "Kerivo."],
+    lead: "Kerivo is built by GIT Software Technologies — an IT services company shipping data, AI and cloud systems for enterprise clients across the UK, UAE and India.",
     primary: { to: "/console", label: "Try the voice agent" },
     secondary: { href: "https://gitsoftwaretech.com", label: "Visit gitsoftwaretech.com" },
     watermark: "GIT",
@@ -139,7 +139,7 @@ export const ABOUT = {
     paragraphs: [
       "GIT Software Technologies works across database management, analytics and application development, drawing on deep industry experience to deliver IT solutions tailored to each client's needs, timeline and budget.",
       "Its services span cloud consulting, technology advisory, implementation, integration and managed services — backed by ISO 27001:2013 (information security) and ISO 9001:2015 (quality management) certification.",
-      "GIT Voice AI Agent is one output of GIT's AI, ML & GenAI practice: a self-hostable WebRTC + LiveKit voice pipeline that answers calls in eleven languages and logs the work into your CRM. You can try it right now from the console.",
+      "Kerivo is one output of GIT's AI, ML & GenAI practice: a self-hostable WebRTC + LiveKit voice pipeline that answers calls in eleven languages and logs the work into your CRM. You can try it right now from the console.",
     ],
   },
   stats: [
@@ -166,7 +166,7 @@ export const ABOUT = {
     heading: "What GIT has shipped.",
     sub: "A few of the products built under the GIT Software Technologies umbrella.",
     items: [
-      { name: "GIT Voice AI Agent", tag: "This product", body: "The real-time voice agent on this site — answering calls for any industry on phone lines and in the browser, in eleven languages.", to: "/console", cta: "Open the console", current: true },
+      { name: "Kerivo", tag: "This product", body: "The real-time voice agent on this site — answering calls for any industry on phone lines and in the browser, in eleven languages.", to: "/console", cta: "Open the console", current: true },
       { name: "Fintegra", tag: "Product", body: "One of GIT Software Technologies' product-line platforms. See gitsoftwaretech.com for full details.", href: "https://gitsoftwaretech.com/fintegra/", cta: "Learn more" },
       { name: "AstroJyotish", tag: "Product", body: "One of GIT Software Technologies' product-line platforms. See gitsoftwaretech.com for full details.", href: "https://gitsoftwaretech.com/astrojyotish/", cta: "Learn more" },
     ],

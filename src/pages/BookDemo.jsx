@@ -46,7 +46,7 @@ function buildMailto(f) {
     f.reason,
   ].join("\n");
   return `mailto:${CONTACT.email}?subject=${encodeURIComponent(
-    "GIT Voice AI Agent - demo request"
+    "Kerivo - demo request"
   )}&body=${encodeURIComponent(body)}`;
 }
 
@@ -91,7 +91,7 @@ export default function BookDemo({ onRetry }) {
         headers: { "Content-Type": "application/json", Accept: "application/json" },
         body: JSON.stringify({
           access_key: WEB3FORMS_KEY,
-          subject: "GIT Voice AI Agent - demo request",
+          subject: "Kerivo - demo request",
           from_name: f.name,
           name: f.name,
           email: f.email,

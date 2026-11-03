@@ -2,7 +2,7 @@ import { DASHBOARD_URL } from "../lib/config";
 
 export const BRAND = {
   name: "GIT Software Technologies",
-  product: "GIT Voice AI Agent",
+  product: "Kerivo",
   company: "GIT Software Technologies",
   agent: "Kelly",
   logo: `${import.meta.env.BASE_URL}images/logo.png`,
