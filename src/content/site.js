@@ -58,7 +58,7 @@ export const FOOTER = {
       links: [
         { to: "/about", label: "About GIT" },
         { href: "https://gitsoftwaretech.com", label: "gitsoftwaretech.com" },
-        { href: DASHBOARD_URL, label: "Staff login" },
+        // { href: DASHBOARD_URL, label: "Staff login" },
       ],
     },
   ],
